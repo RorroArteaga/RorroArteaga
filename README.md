@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RorroArteaga
+- 👋 Hi, I’m @RorroArteaga, I'm a medical doctor.
 - 👀 I’m interested in medicine, AI and health technologies.
 - 🌱 I’m currently learning coding basics.
 - 💞️ I’m looking to collaborate on healthcare related proyects.
